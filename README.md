@@ -10,9 +10,7 @@ Resources: [📑 <a href="https://arxiv.org/abs/2411.12355">Paper (Arxiv)</a>]
 
 ## Method
 
-<div align="center">
-    <img src="assets/images/framework.jpg" width="50%" />
-</div>
+![image-20250217104817569](assets/images/framework.png)
 
 - **Dynamic Event Prototype Estimation (DPE)**: DPE serves as the dynamic selector to accurately discern the meaningful frames, which takes both
  redundancy and correspondence to question answering into consideration as the selection standard. 
