@@ -11,7 +11,7 @@ Resources: [📑 <a href="https://arxiv.org/abs/2411.12355">Paper (Arxiv)</a>]
 ## Method
 
 <div align="center">
-    <img src="./assets/images/framework.jpg" width="50%" />
+    <img src="assets/images/framework.jpg" width="50%" />
 </div>
 
 - **Dynamic Event Prototype Estimation (DPE)**: DPE serves as the dynamic selector to accurately discern the meaningful frames, which takes both
