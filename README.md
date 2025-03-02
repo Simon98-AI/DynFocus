@@ -6,6 +6,7 @@ Resources: [📑 <a href="https://arxiv.org/abs/2411.12355">Paper (Arxiv)</a>]
 
 ## News
 
+- [2025/2/27] DynFocus is Accepted by CVPR 25!
 - [2025/2/18] <a href="https://arxiv.org/abs/2411.12355">Paper</a> is now available on arxiv.
 
 ## Method
