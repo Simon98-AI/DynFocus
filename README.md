@@ -6,6 +6,7 @@ Resources: [📑 <a href="https://arxiv.org/abs/2411.12355">Paper (Arxiv)</a>]
 
 ## News
 
+- [2025/11/11] Release Our Key Code Snippts.
 - [2025/2/27] Our **DynFocus** is Accepted by CVPR 25!
 - [2025/2/18] <a href="https://arxiv.org/abs/2411.12355">Paper</a> is now available on arxiv.
 
@@ -21,7 +22,7 @@ Resources: [📑 <a href="https://arxiv.org/abs/2411.12355">Paper (Arxiv)</a>]
 ## Todo
 
 - [&#10004;] Release Paper
-- [] Release Code
+- [&#10004;] Release Key Code
 - [] Release Checkpoints
 
 ## Citation
